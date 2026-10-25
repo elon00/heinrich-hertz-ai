@@ -1,0 +1,6 @@
+[package]
+name = "heinrich-hertz-ai"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
