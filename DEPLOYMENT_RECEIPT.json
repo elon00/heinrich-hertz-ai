@@ -1,0 +1,14 @@
+{
+  "project": "heinrich-hertz-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "J8yv8HdgxqR9GJLPSMgVGH2ao75YRaDXb31TPAoC826G",
+  "vault_account": "2eoMfvWfCqo1XYy4jT2vxwJN44pVxjA6YFbM9sTLCyi4",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3mTEBhNX46xxBVWzed93eSDLmsjSyWGZ1UbUh5eDDzBmzzSZkMHxhdFgTpemtWQd7Vf7GLUBF77En1872jJiGKuj",
+  "account_tx": "56AWnrMXSsG4gfdaj9sbZGVSRKzX64ttNF8JDuu1GkURPw6Ushxmc268wxUU15JVLHfy8Wu4Akse2EwbC6pmZ214",
+  "mint_tx": "Xi5uoeFTMgVnbMCZQ7KSJGGw6YGnGB2Gsw4o34rV2r1CDPz6nnrxDqWBoSjXhBQBo5fTiPba5Km8r4Vbr1YFKU4",
+  "solana_explorer_mint": "https://explorer.solana.com/address/J8yv8HdgxqR9GJLPSMgVGH2ao75YRaDXb31TPAoC826G?cluster=devnet",
+  "timestamp": "2026-10-26 16:36:55 UTC"
+}
